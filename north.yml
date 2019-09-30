@@ -4,3 +4,4 @@ global:
         - nginx
         - ntpd
         - php7
+        - test
