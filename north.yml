@@ -3,5 +3,3 @@ global:
     packages:
         - nginx
         - ntpd
-        - php7
-        - test
