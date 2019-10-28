@@ -3,3 +3,4 @@ global:
     packages:
         - nginx
         - htop
+        - nmap
