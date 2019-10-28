@@ -2,5 +2,4 @@ version: 1
 global:
     packages:
         - nginx
-        - nmap
         - htop
