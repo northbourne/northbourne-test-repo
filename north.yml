@@ -3,4 +3,4 @@ global:
     packages:
         - htop
         - nmap
-        - ncat
+        - nc
