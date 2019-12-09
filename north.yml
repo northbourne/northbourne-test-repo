@@ -3,4 +3,3 @@ global:
     packages:
         - htop
         - nmap
-        - netcat
